@@ -1,4 +1,4 @@
-This folder contains the data and the Python codes mentioned in the paper entitled 'EQUATIONS AND NEURAL NETWORKS FOR PREDICTING DISPLACEMENT OF LEAD RUBBER ISOLATION SYSTEMS'
+This folder contains the data and the Python codes mentioned in the paper entitled 'EQUATIONS AND ARTIFICIAL NEURAL NETWORK MODELS FOR PREDICTING DISPLACEMENT OF LEAD RUBBER ISOLATION SYSTEMS'
 (DOI: to be updated)
 ---------------------------
 Folder Data contains all the data for the investigation. This folder has these files:
